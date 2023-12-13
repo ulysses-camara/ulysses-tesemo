@@ -1,4 +1,4 @@
-# Ulysses Tesemõ v2.1
+# Ulysses Tesemõ v2.2
 Reference repository for the Ulysses Tesemõ Corpus.
 
 ---
@@ -24,7 +24,7 @@ Download the corpus using one of the following sources:
 
 ### Data categories
 
-The Tesemõ Corpus is organized into 29 data categories, listed below:
+The Tesemõ Corpus is organized into 30 data categories, listed below:
 
 ID      | Source name                                    | Files     | Volume  |
 :--     | :-----------------------------                 | --------: | ------: |
@@ -43,9 +43,9 @@ ID      | Source name                                    | Files     | Volume  |
 **L11** | Governmental standing rules                    | 6         | 1.9 MiB |
 **L12** | Statutes                                       | 18        | 1.5 MiB |
 **L13** | Constitution of Brazil (1988)                  | 1         | 760 KiB |
-**A1**  | Theses from public universities\*                | 3,173     | 1.5 GiB |
+**A1**  | Theses from public universities\*              | 3,173     | 1.5 GiB |
 **A2**  | Chamber of Deputies digital repository         | 1,741     | 194 MiB |
-**O1**  | Governmental news                              | 324,217   | 863 MiB |
+**O1**  | Governmental news                              | 1,632,966 | 4.3 GiB |
 **O2**  | Federal Senate's bidding processes             | 2,183     | 184 MiB |
 **O3**  | Rádio Câmara descriptions                      | 47,012    | 143 MiB |
 **O4**  | Governmental magazines                         | 233       |  75 MiB |
@@ -57,13 +57,14 @@ ID      | Source name                                    | Files     | Volume  |
 **O10** | TST TV                                         | 2,079     | 2.5 MiB |
 **O11** | Frequently Asked Questions                     | 1         | 1.9 MiB |
 **O12** | Wikipedia legal terms                          | 39        | 635 KiB |
---      | **Total**                                      | **2,251,051** | **27.4GiB** |
+**O13** | Maritime/Admiralty Court Accident Reports      | 20        | 1.9 MiB |
+--      | **Total**                                      | **3,559,828** | **30GiB** |
 
 *\*: Only a table containing the URLs to the original sources and the authors' information is available.*
 
 ### All sources
 
-The Tesemõ Corpus is composed by 98 distinct data sources, listed below:
+The Tesemõ Corpus is composed by 157 distinct data sources, listed below:
 
 Category ID | Source name | Files | Volume |
 :------- | :---------  | ----: | -----: |
@@ -81,7 +82,7 @@ Category ID | Source name | Files | Volume |
 *L1* | National Congress journals | 699 | 542 MiB |
 *L2* | State legislation -- SP | 68,405 | 334 MiB |
 *L2* | State legislation -- BA | 28,601 | 197 MiB |
-*L2* | State legislation -- MG| 37,367 | 194 MiB |
+*L2* | State legislation -- MG | 37,367 | 194 MiB |
 *L2* | State legislation -- RJ | 23,143 | 146 MiB |
 *L2* | State legislation -- PE | 31,933 | 145 MiB |
 *L2* | State legislation -- RS | 18,288 | 104 MiB |
@@ -150,6 +151,64 @@ Category ID | Source name | Files | Volume |
 *O1* | TRF6 news | 144 | 343 KiB |
 *O1* | Institutional Security Bureau (GSI) | 135 | 221 KiB |
 *O1* | Planalto news | 60 | 191 KiB |
+*O1* | State government news -- RS | 139,636 | 305 MiB |
+*O1* | State government news -- SP | 95,398 | 253 MiB |
+*O1* | State government news -- TO | 87,774 | 153 MiB |
+*O1* | State government news -- GO | 60,468 | 127 MiB |
+*O1* | State government news -- BA | 56,527 | 123 MiB |
+*O1* | State government news -- DF | 54,917 | 183 MiB |
+*O1* | State government news -- AC | 50,214 | 135 MiB |
+*O1* | State government news -- CE | 43,400 | 134 MiB |
+*O1* | State government news -- PA | 42,073 | 143 MiB |
+*O1* | State government news -- PB | 41,520 | 112 MiB |
+*O1* | State government news -- MS | 34,997 | 90 MiB |
+*O1* | State government news -- SC | 31,274 | 100 MiB |
+*O1* | State government news -- SE | 28,120 | 91 MiB |
+*O1* | State government news -- ES | 27,366 | 85 MiB |
+*O1* | State government news -- RO | 23,367 | 94 MiB |
+*O1* | State government news -- AM | 21,185 | 58 MiB |
+*O1* | State government news -- PR | 20,281 | 81 MiB |
+*O1* | State government news -- AP | 17,311 | 55 MiB |
+*O1* | State government news -- PI | 13,440 | 35 MiB |
+*O1* | State government news -- MG | 12,892 | 45 MiB |
+*O1* | State government news -- MT | 9,802 | 29 MiB |
+*O1* | State government news -- MA | 6,236 | 18 MiB |
+*O1* | State government news -- AL | 6,211 | 18 MiB |
+*O1* | State government news -- RN | 4,801 | 13 MiB |
+*O1* | State government news -- RR | 2,439 | 7.1 MiB |
+*O1* | State government news -- RJ | 1,033 | 3.6 MiB |
+*O1* | State government news -- PE | 464 | 1.6 MiB |
+*O1* | Court of Justice news -- TJCE | 37,509 | 82 MiB |
+*O1* | Court of Justice news -- TJMT | 35,060 | 88 MiB |
+*O1* | Court of Justice news -- TJPB | 23,932 | 63 MiB |
+*O1* | Court of Justice news -- TJSP | 22,460 | 58 MiB |
+*O1* | Court of Justice news -- TJDF | 20,769 | 53 MiB |
+*O1* | Court of Justice news -- TJBA | 19,295 | 41 MiB |
+*O1* | Court of Justice news -- TJRN | 17,618 | 43 MiB |
+*O1* | Court of Justice news -- TJRJ | 15,738 | 34 MiB |
+*O1* | Court of Justice news -- TJAC | 14,803 | 42 MiB |
+*O1* | Court of Justice news -- TJSC | 13,646 | 32 MiB |
+*O1* | Court of Justice news -- TJMS | 13,487 | 35 MiB |
+*O1* | Court of Justice news -- TJGO | 12,000 | 24 MiB |
+*O1* | Court of Justice news -- TJMG | 11,895 | 42 MiB |
+*O1* | Court of Justice news -- TJRO | 10,368 | 33 MiB |
+*O1* | Court of Justice news -- TJPA | 10,164 | 30 MiB |
+*O1* | Court of Justice news -- TJAL | 10,100 | 22 MiB |
+*O1* | Court of Justice news -- TJSE | 8,540 | 20 MiB |
+*O1* | Court of Justice news -- TJPR | 6,823 | 16 MiB |
+*O1* | Court of Justice news -- TJES | 6,406 | 18 MiB |
+*O1* | Court of Justice news -- TJTO | 6,223 | 16 MiB |
+*O1* | Court of Justice news -- TJPE | 5,776 | 19 MiB |
+*O1* | Court of Justice news -- TJMA | 5,445 | 17 MiB |
+*O1* | Court of Justice news -- TJAM | 5,233 | 19 MiB |
+*O1* | Court of Justice news -- TJRS | 2,881 | 7.3 MiB |
+*O1* | Court of Justice news -- TJRR | 2,806 | 6.8 MiB |
+*O1* | Court of Justice news -- TJPI | 1,224 | 3.2 MiB |
+*O1* | Court of Justice news -- TJAP | 844 | 2.4 MiB |
+*O1* | São Paulo Research Foundation (FAPESP) | 22,778 | 80 MiB |
+*O1* | Brazilian Development Bank (BNDS) | 4,617 | 13 MiB |
+*O1* | National Indigenous Foundation (Funai) | 3,956 | 12 MiB |
+*O1* | Brazilian Film Agency (ANCINE) | 3,207 | 9.2 MiB |
 *O2* | Federal Senate's bidding processes | 2,183 | 184 MiB |
 *O3* | Descriptions from Rádio Câmara | 47,012 | 143 MiB |
 *O4* | Federal Court of Accounts (TCU) mag. | 76 | 34 MiB |
@@ -165,6 +224,7 @@ Category ID | Source name | Files | Volume |
 *O9* | Chamber of Deputies' 2022 press guide | 37 | 110 KiB |
 *O10* | TST TV | 2,079 | 2.5 MiB |
 *O12* | Legal terms from PT-br Wikipedia | 39 | 635 KiB |
+*O13* | Maritime/Admiralty Court Accident Reports | 20 | 1.9 MiB |
 
 ---
 
