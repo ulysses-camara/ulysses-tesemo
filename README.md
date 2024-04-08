@@ -1,4 +1,4 @@
-# Ulysses Tesemõ v2.2
+# Ulysses Tesemõ
 Reference repository for the Ulysses Tesemõ Corpus.
 
 ---
