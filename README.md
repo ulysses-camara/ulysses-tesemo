@@ -139,7 +139,7 @@ Category ID | Source name | Files | Volume |
 *O1* | CAPES | 7,546 | 19 MiB |
 *O1* | TRF2 news | 6,690 | 17 MiB |
 *O1* | TRF5 news | 10,208 | 15 MiB |
-*O1* | Labor Prosecution Office (MTP) | 2,400 | 8.7 MiB |
+*O1* | Labor Prosecution Office (MPT) | 2,400 | 8.7 MiB |
 *O1* | Superior Military Court (STM) | 2,917 | 8.5 MiB |
 *O1* | Civil House | 2,000 | 3.8 MiB |
 *O1* | Public comments from Chamber of Deputies news | 5,224 | 3.5 MiB |
