@@ -31,7 +31,7 @@ ID      | Source name                                    | Files     | Volume  |
 **J1**  | Court journals                                 | 1,014,636 |  12 GiB |
 **J2**  | CNJ's public documents                         | 4,317     |  58 MiB |
 **L1**  | Legislative journals                           | 10,014    | 8.2 GiB |
-**L2**  | State legislation                              | 317,566   | 1.6 GiB |
+**L2**  | State legislation                              | 314,461   | 1.6 GiB |
 **L3**  | Federal legislative bills                      | 165,448   | 829 MiB |
 **L4**  | Speech transcriptions from Chamber of Deputies | 310,057   | 545 MiB |
 **L5**  | Federal Senate's transcriptions                | 979       | 173 MiB |
@@ -58,7 +58,7 @@ ID      | Source name                                    | Files     | Volume  |
 **O11** | Frequently Asked Questions                     | 1         | 1.9 MiB |
 **O12** | Wikipedia legal terms                          | 39        | 635 KiB |
 **O13** | Maritime/Admiralty Court Accident Reports      | 20        | 1.9 MiB |
---      | **Total**                                      | **3,540,174** | **30GiB** |
+--      | **Total**                                      | **3,537,069** | **30GiB** |
 
 *\*: Only a table containing the URLs to the original sources and the authors' information is available.*
 
