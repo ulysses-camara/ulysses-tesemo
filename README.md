@@ -31,7 +31,7 @@ ID      | Source name                                    | Files     | Volume  |
 **J1**  | Court journals                                 | 1,014,636 |  12 GiB |
 **J2**  | CNJ's public documents                         | 4,317     |  58 MiB |
 **L1**  | Legislative journals                           | 10,014    | 8.2 GiB |
-**L2**  | State legislation                              | 337,212   | 1.7 GiB |
+**L2**  | State legislation                              | 317,566   | 1.6 GiB |
 **L3**  | Federal legislative bills                      | 165,448   | 829 MiB |
 **L4**  | Speech transcriptions from Chamber of Deputies | 310,057   | 545 MiB |
 **L5**  | Federal Senate's transcriptions                | 979       | 173 MiB |
@@ -58,7 +58,7 @@ ID      | Source name                                    | Files     | Volume  |
 **O11** | Frequently Asked Questions                     | 1         | 1.9 MiB |
 **O12** | Wikipedia legal terms                          | 39        | 635 KiB |
 **O13** | Maritime/Admiralty Court Accident Reports      | 20        | 1.9 MiB |
---      | **Total**                                      | **3,559,828** | **30GiB** |
+--      | **Total**                                      | **3,540,174** | **30GiB** |
 
 *\*: Only a table containing the URLs to the original sources and the authors' information is available.*
 
@@ -80,29 +80,29 @@ Category ID | Source name | Files | Volume |
 *L1* | Chamber of Deputies journals | 4,880 | 5.1 GiB |
 *L1* | Federal Senate journals | 4,435 | 2.5 GiB |
 *L1* | National Congress journals | 699 | 542 MiB |
-*L2* | State legislation -- SP | 68,405 | 334 MiB |
+*L2* | State legislation -- SP | 67,396 | 333 MiB |
 *L2* | State legislation -- BA | 28,601 | 197 MiB |
 *L2* | State legislation -- MG | 37,367 | 194 MiB |
 *L2* | State legislation -- RJ | 23,143 | 146 MiB |
 *L2* | State legislation -- PE | 31,933 | 145 MiB |
 *L2* | State legislation -- RS | 18,288 | 104 MiB |
 *L2* | State legislation -- GO | 20,813 | 90 MiB |
-*L2* | State legislation -- PI | 15,916 | 87 MiB |
+*L2* | State legislation -- PI | 3,597 | 17 MiB |
 *L2* | State legislation -- ES | 10,375 | 58 MiB |
 *L2* | State legislation -- MS | 9,559 | 54 MiB |
-*L2* | State legislation -- RO | 8,742 | 43 MiB |
-*L2* | State legislation -- RN | 3,444 | 39 MiB |
+*L2* | State legislation -- RO | 3,531 | 23 MiB |
+*L2* | State legislation -- RN | 2,807 | 30 MiB |
 *L2* | State legislation -- SC | 7,245 | 32 MiB |
-*L2* | State legislation -- MT | 5,460 | 30 MiB |
+*L2* | State legislation -- MT | 5,459 | 30 MiB |
 *L2* | State legislation -- CE | 8,538 | 28 MiB |
 *L2* | State legislation -- TO | 4,061 | 26 MiB |
 *L2* | State legislation -- PR | 8,557 | 24 MiB |
 *L2* | State legislation -- MA | 4,912 | 20 MiB |
 *L2* | State legislation -- AP | 4,195 | 20 MiB |
-*L2* | State legislation -- SE | 3,745 | 17 MiB |
-*L2* | State legislation -- RR | 1,409 | 17 MiB |
-*L2* | State legislation -- PB | 4,944 | 14 MiB |
-*L2* | State legislation -- AL | 1,995 | 13 MiB |
+*L2* | State legislation -- SE | 1,218 | 7.1 MiB |
+*L2* | State legislation -- RR | 1,355 | 16 MiB |
+*L2* | State legislation -- PB | 4,483 | 12 MiB |
+*L2* | State legislation -- AL | 1,463 | 12 MiB |
 *L2* | State legislation -- AC | 2,171 | 13 MiB |
 *L2* | State legislation -- PA | 2,581 | 10 MiB |
 *L2* | State legislation -- AM | 813 | 7.1 MiB |
