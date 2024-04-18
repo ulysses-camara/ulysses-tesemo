@@ -45,7 +45,7 @@ ID      | Source name                                    | Files     | Volume  |
 **L13** | Constitution of Brazil (1988)                  | 1         | 760 KiB |
 **A1**  | Theses from public universities\*              | 3,173     | 1.5 GiB |
 **A2**  | Chamber of Deputies digital repository         | 1,741     | 194 MiB |
-**O1**  | Governmental news                              | 1,632,966 | 4.3 GiB |
+**O1**  | Governmental news                              | 1,601,731 | 4.3 GiB |
 **O2**  | Federal Senate's bidding processes             | 2,183     | 184 MiB |
 **O3**  | Rádio Câmara descriptions                      | 47,012    | 143 MiB |
 **O4**  | Governmental magazines                         | 233       |  75 MiB |
@@ -58,7 +58,7 @@ ID      | Source name                                    | Files     | Volume  |
 **O11** | Frequently Asked Questions                     | 1         | 1.9 MiB |
 **O12** | Wikipedia legal terms                          | 39        | 635 KiB |
 **O13** | Maritime/Admiralty Court Accident Reports      | 20        | 1.9 MiB |
---      | **Total**                                      | **3,537,069** | **30GiB** |
+--      | **Total**                                      | **3,505,835** | **30GiB** |
 
 *\*: Only a table containing the URLs to the original sources and the authors' information is available.*
 
@@ -153,7 +153,7 @@ Category ID | Source name | Files | Volume |
 *O1* | Planalto news | 60 | 191 KiB |
 *O1* | State government news -- RS | 139,636 | 305 MiB |
 *O1* | State government news -- SP | 95,398 | 253 MiB |
-*O1* | State government news -- TO | 87,774 | 153 MiB |
+*O1* | State government news -- TO | 56,770 | 153 MiB |
 *O1* | State government news -- GO | 60,468 | 127 MiB |
 *O1* | State government news -- BA | 56,527 | 123 MiB |
 *O1* | State government news -- DF | 54,917 | 183 MiB |
@@ -171,10 +171,10 @@ Category ID | Source name | Files | Volume |
 *O1* | State government news -- AP | 17,311 | 55 MiB |
 *O1* | State government news -- PI | 13,440 | 35 MiB |
 *O1* | State government news -- MG | 12,892 | 45 MiB |
-*O1* | State government news -- MT | 9,802 | 29 MiB |
+*O1* | State government news -- MT | 9,572 | 29 MiB |
 *O1* | State government news -- MA | 6,236 | 18 MiB |
 *O1* | State government news -- AL | 6,211 | 18 MiB |
-*O1* | State government news -- RN | 4,801 | 13 MiB |
+*O1* | State government news -- RN | 4,800 | 13 MiB |
 *O1* | State government news -- RR | 2,439 | 7.1 MiB |
 *O1* | State government news -- RJ | 1,033 | 3.6 MiB |
 *O1* | State government news -- PE | 464 | 1.6 MiB |
