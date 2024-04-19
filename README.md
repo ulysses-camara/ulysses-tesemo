@@ -64,7 +64,7 @@ ID      | Source name                                    | Files     | Volume  |
 
 ### All sources
 
-The Tesemõ Corpus is composed by 157 distinct data sources, listed below:
+The Tesemõ Corpus is composed by 159 distinct data sources, listed below:
 
 Category ID | Source name | Files | Volume |
 :------- | :---------  | ----: | -----: |
@@ -209,6 +209,8 @@ Category ID | Source name | Files | Volume |
 *O1* | Brazilian Development Bank (BNDS) | 4,617 | 13 MiB |
 *O1* | National Indigenous Foundation (Funai) | 3,956 | 12 MiB |
 *O1* | Brazilian Film Agency (ANCINE) | 3,207 | 9.2 MiB |
+*O1* | Military Prosecution Office (MPM) | 2,655 | 5M |
+*O1* | Superior Labor Court (TST) | 9,940 | 32M |
 *O2* | Federal Senate's bidding processes | 2,183 | 184 MiB |
 *O3* | Descriptions from Rádio Câmara | 47,012 | 143 MiB |
 *O4* | Federal Court of Accounts (TCU) mag. | 76 | 34 MiB |
