@@ -232,6 +232,12 @@ Category ID | Source name | Files | Volume |
 
 ## Cite
 ```bibtex
-@paper{
+@article{Siqueira2024,
+  author    = {Felipe A. Siqueira and Douglas Vit{\'o}rio and Ellen Souza and Jos{\'e} A. P. Santos and Hidelberg O. Albuquerque and M{\'a}rcio S. Dias and N{\'a}dia F. F. Silva and Andr{\'e} C. P. L. F. de Carvalho and Adriano L. I. Oliveira and Carmelo Bastos{-}Filho},
+  title     = {Ulysses Tesem{\~o}: a new large corpus for Brazilian legal and governmental domain},
+  journal   = {Language Resources and Evaluation},
+  year      = {2024},
+  doi       = {10.1007/s10579-024-09762-8},
+  url       = {https://doi.org/10.1007/s10579-024-09762-8},
 }
 ```
