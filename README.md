@@ -1,4 +1,5 @@
 # Ulysses Tesemõ
+
 Reference repository for the Ulysses Tesemõ Corpus.
 
 ---
@@ -13,10 +14,11 @@ Reference repository for the Ulysses Tesemõ Corpus.
 ---
 
 ## Download URLs
-Download the corpus using one of the following sources:
+
+You can download the Ulysses Tesemõ Corpus from any of the following sources:
 
 - [Source 1](https://drive.google.com/drive/folders/1hRugg8mC5R_COB11DI3O1qOBaaXJxdx0)
-- [Source 2](https://cloud.andrelab.icmc.usp.br/s/b7fP9D5y4z4WsK4)
+- [Source 2](https://drive.google.com/drive/folders/1Sf9hNpoGO_hJtIvhsT1LvWyya0bnm70n?usp=drive_link)
 
 ---
 
